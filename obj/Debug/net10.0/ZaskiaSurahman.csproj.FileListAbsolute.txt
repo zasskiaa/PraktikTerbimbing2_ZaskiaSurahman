@@ -1,0 +1,14 @@
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\bin\Debug\net10.0\ZaskiaSurahman.exe
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\bin\Debug\net10.0\ZaskiaSurahman.deps.json
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\bin\Debug\net10.0\ZaskiaSurahman.runtimeconfig.json
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\bin\Debug\net10.0\ZaskiaSurahman.dll
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\bin\Debug\net10.0\ZaskiaSurahman.pdb
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\obj\Debug\net10.0\ZaskiaSurahman.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\obj\Debug\net10.0\ZaskiaSurahman.AssemblyInfoInputs.cache
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\obj\Debug\net10.0\ZaskiaSurahman.AssemblyInfo.cs
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\obj\Debug\net10.0\ZaskiaSurahman.csproj.CoreCompileInputs.cache
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\obj\Debug\net10.0\ZaskiaSurahman.dll
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\obj\Debug\net10.0\refint\ZaskiaSurahman.dll
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\obj\Debug\net10.0\ZaskiaSurahman.pdb
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\obj\Debug\net10.0\ZaskiaSurahman.genruntimeconfig.cache
+D:\DPK-PPLG\Semester-Ganjil\Bab-03\ZaskiaSurahman\Praktikum_20261030\obj\Debug\net10.0\ref\ZaskiaSurahman.dll
